@@ -1,4 +1,4 @@
-##Shell in Rust##
+***Shell in Rust***
 
 
 **Program Structure:**

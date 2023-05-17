@@ -33,3 +33,10 @@
 
     used 'std::io' for user input and output
     used 'std::process' as a way to spawn child processes and executing commands
+
+
+**Slideshow**
+    https://docs.google.com/presentation/d/1qmgmoxNaxIO7AqkDMNJPegQifRwqydhhJ61okD4YbD4/edit?usp=sharing
+
+**Video**
+    https://drive.google.com/file/d/1DBibiIIKxW7earnGJBcKBTWU5vTtXpkI/view?usp=share_link

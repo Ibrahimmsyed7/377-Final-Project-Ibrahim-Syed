@@ -1,3 +1,6 @@
+##Shell in Rust##
+
+
 **Program Structure:**
 
     SimpleShell Struct: Represents the struct itself that contains methods for dealing with commands
